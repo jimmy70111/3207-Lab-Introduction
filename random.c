@@ -15,7 +15,6 @@ int jen= (rand() % (high-low +1)) +low;
 
 char random= (char)jen;
 
-printf("%c ",random);
 
 return random;
 
